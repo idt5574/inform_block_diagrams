@@ -97,7 +97,7 @@
         <mxCell id="wuCSJRg2hZtlYlo7H3hx-36" value="Вывод: y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wuCSJRg2hZtlYlo7H3hx-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wuCSJRg2hZtlYlo7H3hx-38" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="353" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
